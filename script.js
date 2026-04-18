@@ -1,5 +1,5 @@
 $(document).ready(function() {
-    const loveMessage = "Feliz cumpleaños Dulce!!!";
+    const loveMessage = "¡¡Feliz cumpleaños Lily!!";
     const textElement = $("#love-text");
     let index = 0;
 
